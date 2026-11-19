@@ -11,9 +11,9 @@ import static org.junit.jupiter.api.Assertions.*;
  *
  * @author delac
  */
-public class PruebasCalculos {
+public class TestCalculos {
     
-   public PruebasCalculos() {
+   public TestCalculos() {
              
     }
     
